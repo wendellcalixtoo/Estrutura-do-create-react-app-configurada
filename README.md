@@ -1,12 +1,5 @@
-# Estrutura-do-create-react-app-configurada
-Estrutura do create react-app configurada
-<h1>Apenas um teste</h1>
-<p>Ignorem esse teste</p>
-<ul>
-<li>Sudo bla bla</li>
-<li>Sudo bla bla</li>
-<li>Sudo bla bla</li>
-<ul>
+<h1><strong>Estrutura do create react-app configurada</strong></h1>
+
 <h3><strong>create react-app "nome-do-projeto"</strong></h3>
 
 <p>Dar os seguintes comandos:</p>
