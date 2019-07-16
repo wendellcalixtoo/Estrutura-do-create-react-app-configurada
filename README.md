@@ -7,5 +7,29 @@ Estrutura do create react-app configurada
 <li>Sudo bla bla</li>
 <li>Sudo bla bla</li>
 <ul>
-<h2>Teste 2</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<h3><strong>create react-app "nome-do-projeto"</strong></h3>
+
+<p>Dar os seguintes comandos:</p>
+
+<h3><strong>yarn add eslint -D</strong></h3>
+
+<h3><strong>yarn eslint --init</strong></h3>
+<ul>
+    <li>To check syntax, find problems, and enforce code style
+        JavaScript modules (import/export)</li>
+    <li>React</li>
+    <li>Browser</li>
+    <li>Use a popular style guide</li>
+    <li>Airbnb</li>
+    <li>JavaScript</li>
+    <li>Selecione Yes</li>
+    <li>Selecione Yes</li>
+</ul>
+
+<h3><strong>yarn</strong></h3>
+
+<h3><strong>yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D</strong></h3>
+
+<h3><strong>yarn add babel-eslint@10.0.1 --exact -D</strong></h3>
+
+<h3><strong>yarn start</strong></h3>
