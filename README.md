@@ -1,6 +1,6 @@
-<h1><strong>Estrutura do create react-app configurada</strong></h1>
+<h1><strong>Estrutura do create-react-app configurada</strong></h1>
 
-<h3><strong>$create react-app "nome-do-projeto"</strong></h3>
+<h3><strong>$create-react-app "nome-do-projeto"</strong></h3>
 
 <p>Dar os seguintes comandos:</p>
 
